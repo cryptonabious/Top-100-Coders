@@ -2,7 +2,7 @@
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+- Im Nabeel Nazer a self confessed epistemophilic who can be seen in the intersection of IOT, UI UX , Graphic Designing.
 
 
 ### Portfolio Highlights
