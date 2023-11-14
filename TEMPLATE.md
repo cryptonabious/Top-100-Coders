@@ -2,57 +2,41 @@
 
 ### About Me
 
-- Im Nabeel Nazer a self confessed epistemophilic who can be seen in the intersection of IOT, UI UX , Graphic Designing.
-
-
-### Portfolio Highlights
+-Self confessed epistemophilic with an innate disposition to excel in multilateral fields beyond the corporate world.
+as they say "Teamwork makes the dream work!"
+Striving to contribute towards a holistically better future. regardless of the premise or the scale.
+P.S i get my dopamine spikes from doing interesting things like photoshop or getting something to work in python, IOT, Figma,AI, ML, front end.
 
 
 
 #### Leadership and Influence: 
 
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- Sincerety or arthamarthatha along with the ardent desire to stick on with the values will always pave the way for success in the longrun and thats my mantra or what i believe in..apart from countless leadership and team player roles in my high school,college,youth welfare club.. Conducting young innovators program orientation sessions across colleges in malappuram district as a district cordinator intern throttled me in a way that know not that i needed .
 
 #### Networking: 
 
-- explain your networking skills and how you plan to engage with the Top 100 community. Outline how you will influence and lead others in your respective field.
+- as the current co commuucommunity lead of our college. im thrilled to be doing what i love .. whch is connnecting and getting to know people their strengths their intrests their vision etc. and i can guaratee that will not be missing out on that part.
 
 #### As a Top 100 Member: 
 
-- outline why you are applying for this Top 100 and explain how it relates to your current profession. Specify how being in the Top 100 will benefit your career.
+- im applying so that i challenge my self to excel my self as a student doing his bachelors in Computer science and im obliged as a keralite to be person who is willing and working towards the betterment of our nation and contribute to FOSS for a better futere and personal contentment.
 
 #### Career Plan: 
 
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- as of now i want to quickly be a contrinbuter towards the tech pool of kerela in multiple fields while i learn and create value based project which will be of help to the society in some way or the other. and in long term i want to contribute real usefull stuffs to my nation and the world as a wholee carrying its help even after my demise.
 
 #### Thoughts on Kerala's Tech Ecosystem: `required field`
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
-
-#### History of Open Source Contributions:
-
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
+- on the advent of KSUM and IEDCs, KDISC and YIPs it gave me an optimistic perspective of the future of our state kerala. as we know that kerala is the state with most coders, we can conclude that this stat alone will translate to rest of the tech stack. be it designing etc. this foreces us to believe that we are on the right path when it comes to the progress of technolugy and fostering innovation.
 
 #### History of Community Engagement:
 
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
-
-#### Highly Used Software Tools:
-
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
-
-#### Competitive Website Profiles:
-
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
+- i do hope on python discord sever and do engage with devs and help out newbies within my capabilities
 
 
 
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profile/vishakhabhayan@mulearn.md) for an exmaple
+
+>> check out www.linkedin.com/in/nabeel-nazer-a17187204
 
 ---
 
